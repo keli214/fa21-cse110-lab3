@@ -1,6 +1,6 @@
 ---
-name: Feature Addition Request
-about: Suggest a feature that could be added or improved
+name: Issue Report
+about: Report a issue or suggest a feature that could be added
 title: "[Feature]"
 labels: CSS
 assignees: keli214
@@ -8,9 +8,9 @@ assignees: keli214
 ---
 
 ### What: 
-Describe the feature that could be added 
+Describe the issue that you are encountering or the feature that could be added 
 ### Where: 
-Identify where the feature could be added 
+Identify the location of the issue/feature  
 ### How: 
 Describe how the current vision could be improved with the additional feature 
 ### Notes: 
