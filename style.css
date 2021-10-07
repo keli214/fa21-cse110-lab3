@@ -1,0 +1,15 @@
+h1 {
+    background-color: rgb(255, 209, 195);
+    color:steelblue;
+    margin-top: 20px;
+}
+
+h3 { 
+    color:rgb(179, 126, 113);
+}
+P {
+    color:#3260a8;
+}
+h5 {
+    color:hsl(27, 19%, 42%);
+}
