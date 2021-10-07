@@ -1,15 +1,20 @@
 h1 {
-    background-color: rgb(255, 209, 195);
+    background-color: rgb(255, 219, 209);
     color:steelblue;
-    margin-top: 20px;
+    text-align: center;
+    margin-top: -10px;
+    padding-right: 100pt;
 }
-
 h3 { 
     color:rgb(179, 126, 113);
+    text-align: center;
 }
 P {
     color:#3260a8;
 }
 h5 {
     color:hsl(27, 19%, 42%);
+}
+body { 
+    background-color:rgb(238, 229, 216);
 }
