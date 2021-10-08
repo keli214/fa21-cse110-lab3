@@ -156,4 +156,31 @@ section.flex-containerA > div {
     font-size: 16px;
     text-align: center;
   }
+  * {
+    font-family: 'Jaldi', sans-serif;
+    font-family: 'Sorts Mill Goudy', serif;
+  }
 
+a[target] {
+    background-color: rgba(248, 247, 247, 0.973);
+}
+
+section > p {
+    background-color: rgb(255, 237, 232);
+}
+section h3 {
+    margin: 20pt;
+}
+
+div ~ p {
+    margin: 20pt;
+}
+
+div + p{
+    margin-top: 10pt;
+}
+
+#one.two { 
+    color: rgb(75, 64, 58); 
+    text-align: center;
+}
